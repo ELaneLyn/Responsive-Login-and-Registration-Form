@@ -2,4 +2,4 @@
 
 + codes & video from https://www.youtube.com/watch?v=U69WL9jInW0
 
-+ ## HTML + CSS
++ HTML + CSS
